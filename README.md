@@ -1,4 +1,4 @@
-# Discord-Weather-Bo
+# Discord-Weather-Bot
 
 OpenWeatherAPIから取得した天気を表示するDiscordボット
 
